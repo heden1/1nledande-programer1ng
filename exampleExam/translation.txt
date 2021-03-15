@@ -1,0 +1,8 @@
+eng: strawberry
+swe: jordgubb
+fre: fraise
+
+ger: rubus
+fin: vatukat
+swe: hallon
+eng: raspberry

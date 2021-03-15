@@ -1,0 +1,3 @@
+[7] nu kommer en punkt. nu kommer två siffror 9 9:or. nu kommer en parantes runt ett ord "(parentes)". nu kommer en 'hackparantes' [hackparantes].
+ENTER nu BörJar Ny rad. Kommer stor bokstäver med? 500,000
+
